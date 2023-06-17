@@ -216,14 +216,3 @@ while True:
         print("Volte Sempre!")
         print("------------------------------------")
         break
-
-#A ideia inicial do codigo era fazer uma criação de E-mail e um SubMenu para poder Logar.
-
-#1-Dentro do SubMenu com a tela de carregamento de Login era onde ia fazer as alterações do cadastro de E-mail.
-#2-Com os Dados informados pelo usúario o E-mail é gerado automaticamente.
-#3-Se o usuario esqueceu a senha, o programa pede os seus Dados e informa a sua Senha.
-#4-Se o usuario não lembra o E-mail, ele podera ir em registro e verificar o E-mail e a Data de criação
-#5-Para salvar todas as alterações o usuario precisará sair na opção 5
-#Todos os Dados são armazenados no arquivo "dados.txt"
-
-#me empolguei rsrsrs
