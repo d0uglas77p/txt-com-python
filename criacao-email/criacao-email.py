@@ -226,4 +226,4 @@ while True:
 #5-Para salvar todas as alterações o usuario precisará sair na opção 5
 #Todos os Dados são armazenados no arquivo "dados.txt"
 
-#me empolguei rsrsrs
+
